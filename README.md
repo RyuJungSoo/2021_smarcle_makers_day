@@ -23,8 +23,8 @@ smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](htt
 <img src ="https://user-images.githubusercontent.com/81175672/130350128-f1015db5-0223-44e0-8633-81e7aa73a8cb.png" width="40%" height="40%">
 <리프트 조작 앱 모습>
 
-[아두이노 소스 코드](https://github.com/RyuJungSoo/2021_smarcle_makers_day/blob/main/source_code/arduino.md, "project link") 
-[자세한 앱 소스 코드는 여기를 참조1](https://blog.naver.com/goldfox10/222433130562, "project link")                        
+[아두이노 소스 코드](https://github.com/RyuJungSoo/2021_smarcle_makers_day/blob/main/source_code/arduino.md, "project link")                         
+[자세한 앱 소스 코드는 여기를 참조1](https://blog.naver.com/goldfox10/222433130562, "project link")                                         
 [자세한 앱 소스 코드는 여기를 참조2](https://blog.naver.com/goldfox10/222450059705, "project link")                       
 
 
