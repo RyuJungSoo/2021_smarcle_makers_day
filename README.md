@@ -56,4 +56,4 @@ smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](htt
 사회적 약자나 실생활의 불편을 없애주는 점이 기술의 장점 중에 장점이라고 저희 팀은 생각합니다. 앞으로 이런 기술들이 많이 개발되고 공유되는 것이 저희 팀의 바람입니다.
 
 
-[프로젝트 소개 사이트](https://sites.google.com/view/smarclemakersdayteam6finalpres/%ED%99%88, "project link")
+[프로젝트 소개 사이트](https://sites.google.com/view/smarclemakersdayteam6finalpres/%ED%99%88, "project link") 
