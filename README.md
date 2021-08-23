@@ -16,13 +16,14 @@ smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](htt
 블루투스 조작이 가능한 휠체어 리프트 모형, 앱 구현
 --------------------------------------------
 저희 조는 블루투스로 조작할 수 있는 휠체어 리프트로 기존의 리프트를 개선시키로 했습니다.                  
-아두이노, HC-06, 기어드 모터를 이용해 회로를 만들고 앱 인벤터를 사용하여 리프트 조작 앱을 만들었습니다.
-
+아두이노, HC-06, 기어드 모터를 이용해 회로를 만들고 앱 인벤터를 사용하여 리프트 조작 앱을 만들었습니다.                    
+아두이노는 arduino IDE을 사용하여 코딩했습니다.
 
 <img src = "https://user-images.githubusercontent.com/81175672/130350063-79ad78b3-b0bb-43f8-a260-92c57e709300.jpg" width="40%" height="40%">     <회로 프로토타입 모습>                
 <img src ="https://user-images.githubusercontent.com/81175672/130350128-f1015db5-0223-44e0-8633-81e7aa73a8cb.png" width="40%" height="40%">
 <리프트 조작 앱 모습>
 
+[아두이노 소스 코드](https://github.com/RyuJungSoo/2021_smarcle_makers_day/blob/main/source_code/arduino.md, "project link") 
 [자세한 앱 소스 코드는 여기를 참조1](https://blog.naver.com/goldfox10/222433130562, "project link")                        
 [자세한 앱 소스 코드는 여기를 참조2](https://blog.naver.com/goldfox10/222450059705, "project link")                       
 
@@ -44,7 +45,15 @@ smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](htt
 [휠체어 3d 모델](https://github.com/RyuJungSoo/2021_smarcle_makers_day/tree/main/3d_model/wheelchair, "project link")                     
 
 
+ 
+작동 시연 영상
+--------------------------------------
+[![Video Label](https://www.youtube.com/watch?v=1j32gT3AuWs/0.jpg)](https://www.youtube.com/watch?v=1j32gT3AuWs)
 
+마무리하면서...............
+-------------------------------
+저희 조는 약 2달 간의 활동을 하면서 사회적 약자를 위한 기술에 대해서 생각해보고 고민해보는 시간을 가졌습니다.                 
+사회적 약자나 실생활의 불편을 없애주는 점이 기술의 장점 중에 장점이라고 저희 팀은 생각합니다. 앞으로 이런 기술들이 많이 개발되고 공유되는 것이 저희 팀의 바람입니다.
 
 
 [프로젝트 소개 사이트](https://sites.google.com/view/smarclemakersdayteam6finalpres/%ED%99%88, "project link")
