@@ -48,7 +48,7 @@ smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](htt
  
 작동 시연 영상
 --------------------------------------
-[![Video Label](https://www.youtube.com/watch?v=1j32gT3AuWs/0.jpg)](https://www.youtube.com/watch?v=1j32gT3AuWs)
+[![Video Label](http://img.youtube.com/vi/1j32gT3AuWs/0.jpg)](https://www.youtube.com/watch?v=1j32gT3AuWs)
 
 마무리하면서...............
 -------------------------------
