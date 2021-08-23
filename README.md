@@ -13,13 +13,28 @@ smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](htt
                                        
 ![캡처3](https://user-images.githubusercontent.com/81175672/130349801-cd29a05d-f4c4-4dfb-95fd-83d6f212c3fc.JPG)                            
 
-블루투스 조작이 가능한 휠체어 리프트 모형 구현
+블루투스 조작이 가능한 휠체어 리프트 모형, 앱 구현
 --------------------------------------------
 저희 조는 블루투스로 조작할 수 있는 휠체어 리프트로 기존의 리프트를 개선시키로 했습니다.                  
 아두이노, HC-06, 기어드 모터를 이용해 회로를 만들고 앱 인벤터를 사용하여 리프트 조작 앱을 만들었습니다.
 
-![KakaoTalk_20210729_132104878](https://user-images.githubusercontent.com/81175672/130350063-79ad78b3-b0bb-43f8-a260-92c57e709300.jpg){: width="100%" height="100%"} <회로 프로토타입 모습>                  
-<img width="192" alt="KakaoTalk_20210729_150412998" src="https://user-images.githubusercontent.com/81175672/130350128-f1015db5-0223-44e0-8633-81e7aa73a8cb.png">    <리프트 조작 앱 모습>
+
+<img src = "https://user-images.githubusercontent.com/81175672/130350063-79ad78b3-b0bb-43f8-a260-92c57e709300.jpg" width="40%" height="40%">     <회로 프로토타입 모습>                
+<img src ="https://user-images.githubusercontent.com/81175672/130350128-f1015db5-0223-44e0-8633-81e7aa73a8cb.png" width="40%" height="40%">
+<리프트 조작 앱 모습>
+
+
+리프트 상승 시스템 구현
+-------------------------------------
+원래는 체인과 톱니를 이용하여 상승 시스템을 구현하려고 했으나 체인, 톱니, 축 무게를 고려했을 때 모터의 토크가 부족할 거 같아 다른 방식을 생각하기로 했습니다.                             
+<img src="https://user-images.githubusercontent.com/81175672/130412164-d85d91c3-9d35-424b-86ba-f81a5dd4e4a8.jpg" width="30%" height="30%">                 
+그래서 저희 조는 볼트와 너트를 이용하여 회전 직선 운동이 가능한 구조를 만들기로 했습니다. 너트를 볼트에 낀 상태로 너트를 돌리면 위 아래로 움직이는 것을 이용해          
+너트가 회전하는 걸 막을 수 있는 지지대를 설치하면 볼트만 회전하면서 너트가 상승하는 시스템이 구현될 것이라고 저희 조는 생각했습니다.                 
+<img src="https://user-images.githubusercontent.com/81175672/130414000-1798a397-24e4-4f81-b7d5-4659db8920f5.JPG" width="30%" height="30%">               
+<완성한 볼트, 너트, 너트 회전 방지대, 지지대>             
+
+
+
 
 
 [프로젝트 소개 사이트](https://sites.google.com/view/smarclemakersdayteam6finalpres/%ED%99%88, "project link")
