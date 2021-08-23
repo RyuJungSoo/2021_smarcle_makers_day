@@ -3,7 +3,7 @@
 
 smarcle makers day란?          
 ------------------------------------------------                        
-smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](https://github.com/sejongsmarcle, "smarcle link")에서                  
+smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](https://github.com/sejongsmarcle "smarcle link")에서                  
 2021 여름방학동안 진행한 메인 프로그램으로 아두이노, 인공지능 등 다양한 소프트웨어, 하드웨어를 융합하여             
 하나의 큰 작품을 만드는 활동입니다. 
 
@@ -23,9 +23,9 @@ smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](htt
 <img src ="https://user-images.githubusercontent.com/81175672/130350128-f1015db5-0223-44e0-8633-81e7aa73a8cb.png" width="40%" height="40%">
 <리프트 조작 앱 모습>
 
-[아두이노 소스 코드](https://github.com/RyuJungSoo/2021_smarcle_makers_day/blob/main/source_code/arduino.md, "project link")                         
-[자세한 앱 소스 코드는 여기를 참조1](https://blog.naver.com/goldfox10/222433130562, "project link")                                         
-[자세한 앱 소스 코드는 여기를 참조2](https://blog.naver.com/goldfox10/222450059705, "project link")                       
+[아두이노 소스 코드](https://github.com/RyuJungSoo/2021_smarcle_makers_day/blob/main/source_code/arduino.md "project link")                         
+[자세한 앱 소스 코드는 여기를 참조1](https://blog.naver.com/goldfox10/222433130562 "project link")                                         
+[자세한 앱 소스 코드는 여기를 참조2](https://blog.naver.com/goldfox10/222450059705 "project link")                       
 
 
 리프트 상승 시스템 구현
@@ -36,13 +36,13 @@ smarcle makers day는 세종대 지능기전공학부 동아리인 [Smarcle](htt
 너트가 회전하는 걸 막을 수 있는 지지대를 설치하면 볼트만 회전하면서 너트가 상승하는 시스템이 구현될 것이라고 저희 조는 생각했습니다.                 
 <img src="https://user-images.githubusercontent.com/81175672/130414000-1798a397-24e4-4f81-b7d5-4659db8920f5.JPG" width="40%" height="40%">               
 <완성한 볼트, 너트, 너트 회전 방지대, 지지대>             
-[볼트+너트+지지대 3d 모델](https://github.com/RyuJungSoo/2021_smarcle_makers_day/tree/main/3d_model/bolt%2Bnut, "project link")
+[볼트+너트+지지대 3d 모델](https://github.com/RyuJungSoo/2021_smarcle_makers_day/tree/main/3d_model/bolt%2Bnut "project link")
 
 휠체어 3d 디자인
 ---------------------------------------
 리프트 모형에 태울 소형 휠체어를 123d design을 사용하여 디자인 했습니다.                    
 <img src="https://user-images.githubusercontent.com/81175672/130421272-74d4ed4f-88d2-4074-8ebb-d15bab9f052e.jpg" width="40%" height="40%">  
-[휠체어 3d 모델](https://github.com/RyuJungSoo/2021_smarcle_makers_day/tree/main/3d_model/wheelchair, "project link")                     
+[휠체어 3d 모델](https://github.com/RyuJungSoo/2021_smarcle_makers_day/tree/main/3d_model/wheelchair "project link")                     
 
 
  
